@@ -1,6 +1,13 @@
 Challenge CROWDAR
 ==================
 
+Casos de Prueba
+==================
+Proyecto que incluye casos de prueba en el archivo "Test Case.xlsx"
+
+
+Ejecutar framework de automatización:
+==================
 ## Pre requisitos
 Se requiere tener Node.js y npm instalados para ejecutar el proyecto
 node >=14
